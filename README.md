@@ -11,4 +11,6 @@ This effectively eliminates the in-game lag. The fix is temporary.
 It's purpose is to reduce the time it takes to manually set affinity, so you can get back to your game much faster.
 <br>
 <br>
+<br>
+<br>
 Both Vulkan and DirectX 11 supported.
