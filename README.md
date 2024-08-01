@@ -8,9 +8,7 @@ It uses PowerShell commands to set CPU affinity of the game to CPU (0), then bac
 This effectively eliminates the in-game lag caused by this affinity bug.
 <br>
 <br>
-<br>
 The fix is temporary, while the game is running.
-<br>
 <br>
 It's purpose is to reduce the time it takes to manually set affinity, so you can get back to your game much faster.
 <br>
