@@ -14,5 +14,4 @@ It's purpose is to reduce the time it takes to manually set affinity, so you can
 <br>
 <br>
 <br>
-<br>
-Both Vulkan and DirectX 11 supported.
+Both Vulkan and DirectX 11 APIs supported.
