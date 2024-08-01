@@ -1,4 +1,13 @@
 # Tom Clancy's Rainbow Six Siege - Lag CPU (Affinity) Fixer
+<p align="center">
+  <a href="https://www.buymeacoffee.com/fat_kopa" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
+  </a>
+</p>
+<br>
+<br>
+<br>
+<br>
 A short .bat script with GUI that temporarily fixes in-game lag caused by CPU affinity. 
 <br>
 <br>
