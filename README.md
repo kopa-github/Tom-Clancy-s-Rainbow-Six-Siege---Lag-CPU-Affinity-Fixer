@@ -7,6 +7,8 @@ A short .bat script with GUI that temporarily fixes in-game lag caused by CPU af
 It uses PowerShell commands to set CPU affinity of the game to CPU (0), then back to all CPUs. 
 This effectively eliminates the in-game lag caused by this affinity bug.
 <br>
+<br>
+<br>
 The fix is temporary, while the game is running.
 <br>
 <br>
