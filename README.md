@@ -6,8 +6,6 @@
 </p>
 <br>
 <br>
-<br>
-<br>
 A short .bat script with GUI that temporarily fixes in-game lag caused by CPU affinity. 
 <br>
 <br>
