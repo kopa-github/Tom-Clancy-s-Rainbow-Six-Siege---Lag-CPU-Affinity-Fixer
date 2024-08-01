@@ -109,7 +109,7 @@ for /f "tokens=2 delims==" %%i in ('wmic process where "name='%PROGRAM_NAME%'" g
     )
 )
 
-
+REM Done by your's truly, kopa.
 
 :ErrorFoundPID
 if "%VULKAN%"=="True" (
